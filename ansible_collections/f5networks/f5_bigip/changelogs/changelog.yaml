@@ -156,3 +156,5 @@ releases:
         name: velos
         namespace: null
     release_date: '2021-08-02'
+  1.12.0:
+    release_date: '2021-08-10'

@@ -5,6 +5,9 @@ F5Networks F5_BIGIP Collection Release Notes
 .. contents:: Topics
 
 
+v1.12.0
+=======
+
 v1.1.0
 ======
 
